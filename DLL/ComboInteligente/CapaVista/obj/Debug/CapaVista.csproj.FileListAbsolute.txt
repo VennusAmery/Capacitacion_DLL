@@ -1,0 +1,13 @@
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaVista\obj\Debug\CapaVista.Combo.resources
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaVista\bin\Debug\CapaModelo.pdb

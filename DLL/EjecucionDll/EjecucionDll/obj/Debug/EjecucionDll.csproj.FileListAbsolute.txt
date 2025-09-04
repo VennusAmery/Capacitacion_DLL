@@ -1,0 +1,17 @@
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\EjecucionDll\EjecucionDll\bin\Debug\EjecucionDll.exe.config
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\EjecucionDll\EjecucionDll\bin\Debug\EjecucionDll.exe
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\EjecucionDll\EjecucionDll\bin\Debug\EjecucionDll.pdb
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\EjecucionDll\EjecucionDll\bin\Debug\CapaVista.dll
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\EjecucionDll\EjecucionDll\bin\Debug\CapaControlador.dll
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\EjecucionDll\EjecucionDll\bin\Debug\CapaModelo.dll
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\EjecucionDll\EjecucionDll\bin\Debug\CapaVista.pdb
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\EjecucionDll\EjecucionDll\bin\Debug\CapaControlador.pdb
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\EjecucionDll\EjecucionDll\bin\Debug\CapaModelo.pdb
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.csproj.AssemblyReference.cache
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.Form1.resources
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.Properties.Resources.resources
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.csproj.GenerateResource.cache
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.csproj.CoreCompileInputs.cache
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.csproj.CopyComplete
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.exe
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.pdb

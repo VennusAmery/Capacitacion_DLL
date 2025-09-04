@@ -1,0 +1,6 @@
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\DLL\ComboInteligente\CapaModelo\obj\Debug\CapaModelo.pdb
